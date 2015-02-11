@@ -1,0 +1,5 @@
+[
+{name:"cube1",position:[10,10,10]},
+{name:"cube2",position:[20,20,20]}
+]
+http://TinyUrl.com/Spender-Video
